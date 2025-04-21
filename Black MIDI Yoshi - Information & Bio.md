@@ -1,5 +1,3 @@
-git remote add origin https://github.com/ErickTheMeekNerd/erickthemeeknerd.github.io.git
-
 <!DOCTYPE html>
 <html>
     <head>
